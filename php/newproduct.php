@@ -46,6 +46,15 @@ function uploadImage($id)
     <title>Add Product</title>
 </head>
 
+<style>
+    @media screen and (min-width: 601px) {
+        .w3-resize {
+            max-width: 800px;
+            margin: auto;
+        }
+    }
+</style>
+ 
 <body>
 
     <div class="w3-padding-32 w3-container w3-white">
